@@ -1,0 +1,26 @@
+#main {
+    border-style: double;
+    padding: 20px;
+}
+#header-title{
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+.list-group{
+    padding-left:0;
+}
+.btn-dark{
+    background-color: green;
+    color: aliceblue;
+    border-style: double;
+    width: 10%;
+    line-height: 2.0rem;
+}
+#main a{
+    color:green;
+}
+.list-group-items{
+    border-style: ridge;
+    padding-left: 10px;
+}
